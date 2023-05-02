@@ -17,3 +17,7 @@ open http://localhost:8080/docs
 ```
 
 This project leverages the mega-awesome [swagger-tools](https://github.com/apigee-127/swagger-tools) middleware which does most all the work.
+
+### Testing the server
+
+You should be able to perform tests agains the running server going to [Swagger Inspector](https://inspector.swagger.io/builder), make sure to install its browser extension to avoid CORS issues.
